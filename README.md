@@ -29,13 +29,16 @@ If you have any feedback, please reach out to us at salim.marwan2001@gmail.com
 
 ## Installation
 
-Install my-project with npm
+clone attacker with git tool
 
 ```bash
-  npm install my-project
-  cd my-project
+  git clone https://github.com/salim-mrw/attacker
 ```
-    
+
+open attacker/atmega32u/atmega32u.ino and born code in conntroller atmega32u
+
+open attacker/esp8266/esp8266.ino and born code in conntroller esp8266
+
 ## Roadmap
 
 - Additional browser support
