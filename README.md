@@ -2,7 +2,7 @@
 Graduation Research
 
 
-![Logo](attacker.svg)
+![Logo](logo.png)
 
 
 ## Authors
