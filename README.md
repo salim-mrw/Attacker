@@ -37,7 +37,7 @@ create directory name attacker and open it
   cd attacker
 ```
 
-clone attacker with git tool
+clone attacker repository with git tool
 
 ```bash
   git clone https://github.com/salim-mrw/attacker
