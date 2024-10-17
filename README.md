@@ -29,6 +29,14 @@ If you have any feedback, please reach out to us at salim.marwan2001@gmail.com
 
 ## Installation
 
+create directory name attacker and open it
+
+```bash
+  mkdir attacker
+
+  cd attacker
+```
+
 clone attacker with git tool
 
 ```bash
