@@ -42,9 +42,13 @@ clone attacker repository with git tool
 ```bash
   git clone https://github.com/salim-mrw/attacker
 ```
-install Arduino IDE
+install Arduino IDE V1
 
 - [for Windows](https://docs.arduino.cc/software/ide-v1/tutorials/Windows/)
+
+- [for Linux](https://docs.arduino.cc/software/ide-v1/tutorials/Linux/)
+
+- [for MacOS](https://docs.arduino.cc/software/ide-v1/tutorials/macOS/)
 
 install esp8266 librarys
 
