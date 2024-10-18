@@ -35,11 +35,6 @@ Many organizations rely on traditional means of communication such as USB and Wi
 If you have any feedback, please reach out to us at salim.marwan2001@gmail.com
 
 
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
-
 ## Installation
 
 download [git tool](https://git-scm.com/downloads)
@@ -77,20 +72,4 @@ open attacker/atmega32u/atmega32u.ino and born code in conntroller atmega32u
 
 open attacker/esp8266/esp8266.ino and born code in conntroller esp8266
 
-## Roadmap
-
-- Additional browser support
-
-- Add more integrations
-
-
-## Usage/Examples
-
-```javascript
-import Component from 'my-project'
-
-function App() {
-  return <Component />
-}
-```
 
