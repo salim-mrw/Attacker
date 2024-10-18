@@ -10,6 +10,10 @@ Graduation Research
 
 ## Acknowledgements
 
+ - [canva](https://www.canva.com/)
+
+ - [git](https://git-scm.com/)
+
  - [chatgpt](https://openai.com/index/chatgpt/)
 
  - [PHP Documentation](https://www.php.net/docs.php)
