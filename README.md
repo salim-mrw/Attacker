@@ -42,7 +42,7 @@ clone attacker repository with git tool
 ```bash
   git clone https://github.com/salim-mrw/attacker
 ```
-install Arduino IDE V1
+install Arduino IDE 1
 
 - [for Windows](https://docs.arduino.cc/software/ide-v1/tutorials/Windows/)
 
