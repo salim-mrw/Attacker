@@ -42,6 +42,15 @@ clone attacker repository with git tool
 ```bash
   git clone https://github.com/salim-mrw/attacker
 ```
+install Arduino IDE
+
+- [for Windows](https://docs.arduino.cc/software/ide-v1/tutorials/Windows/)
+
+install esp8266 librarys
+
+install keyboard library
+
+install mouse library
 
 open attacker/atmega32u/atmega32u.ino and born code in conntroller atmega32u
 
