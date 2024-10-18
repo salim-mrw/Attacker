@@ -10,6 +10,8 @@ Graduation Research
 
 ## Acknowledgements
 
+ - [Arduino Documentation](https://docs.arduino.cc/)
+
  - [The easiest way to create a
 README](https://https://readme.so/en)
 
@@ -50,6 +52,8 @@ install Arduino IDE 1
 - [for Linux](https://docs.arduino.cc/software/ide-v1/tutorials/Linux/)
 
 - [for MacOS](https://docs.arduino.cc/software/ide-v1/tutorials/macOS/)
+
+https://docs.arduino.cc/software/ide-v1/tutorials/installing-libraries/
 
 install esp8266 librarys
 
