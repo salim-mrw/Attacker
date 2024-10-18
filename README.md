@@ -10,6 +10,14 @@ Graduation Research
 
 ## Acknowledgements
 
+ - [chatgpt](https://openai.com/index/chatgpt/)
+
+ - [PHP Documentation](https://www.php.net/docs.php)
+
+ - [W3Schools](https://www.w3schools.com/)
+
+ - [Bootstrap 4 colors](https://colorswall.com/palette/3)
+
  - [Arduino Documentation](https://docs.arduino.cc/)
 
  - [The easiest way to create a
