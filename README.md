@@ -29,6 +29,11 @@ If you have any feedback, please reach out to us at salim.marwan2001@gmail.com
 
 ## Installation
 
+download [git tool](https://git-scm.com/downloads)
+
+```bash
+  git clone https://github.com/salim-mrw/attacker
+```
 create directory name attacker and open it
 
 ```bash
