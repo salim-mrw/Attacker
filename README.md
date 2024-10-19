@@ -78,6 +78,8 @@ If you have any feedback, please reach out to us at salim.marwan2001@gmail.com
 
  - [Bootstrap 4 colors](https://colorswall.com/palette/3)
 
+ - [Bootstrap 5 animation](https://mdbootstrap.com/docs/standard/content-styles/animations/)
+
  - [Arduino Documentation](https://docs.arduino.cc/)
 
  - [PCB Design Proteus](https://www.labcenter.com/)
