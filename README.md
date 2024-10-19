@@ -35,11 +35,11 @@ clone attacker repository with git tool
 ```
 install Arduino IDE 1
 
-- [for Windows](https://docs.arduino.cc/software/ide-v1/tutorials/Windows/)
+- [Windows](https://docs.arduino.cc/software/ide-v1/tutorials/Windows/)
 
-- [for Linux](https://docs.arduino.cc/software/ide-v1/tutorials/Linux/)
+- [Linux](https://docs.arduino.cc/software/ide-v1/tutorials/Linux/)
 
-- [for MacOS](https://docs.arduino.cc/software/ide-v1/tutorials/macOS/)
+- [MacOS](https://docs.arduino.cc/software/ide-v1/tutorials/macOS/)
 
 
 [install libraries](https://docs.arduino.cc/software/ide-v1/tutorials/installing-libraries/)
