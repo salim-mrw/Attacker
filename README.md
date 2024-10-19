@@ -18,7 +18,7 @@ Many organizations rely on traditional means of communication such as USB and Wi
 
 ## Installation
 
-download [git tool](https://git-scm.com/downloads)
+install [git tool](https://git-scm.com/downloads)
 
 create directory name attacker and open it
 
