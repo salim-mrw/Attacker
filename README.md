@@ -2,13 +2,25 @@
 
 Graduation Research
 
+Ministry of Higher Education and Scientific Research
+
+Ninevah University
+
+Information Technology College
+
+Computer Network and the Internet Department
+
 Assess the impact USB/WiFi Ducky Delivery Attack on network security
 
+## Research Supervisor
+
+dr karam salih
+
+## Researcher
+
+- [Salim Marwan](https://www.github.com/salim-mrw)
+
 ![Logo](logo.png)
-
-## Authors
-
-- [@salim-mrw](https://www.github.com/salim-mrw)
 
 
 ## Description
