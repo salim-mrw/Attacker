@@ -66,7 +66,7 @@ If you have any feedback, please reach out to us at salim.marwan2001@gmail.com
 
  - [Github repository management git](https://git-scm.com/)
 
- - [Adviser AI chatgpt](https://openai.com/index/chatgpt/)
+ - [Adviser AI chatGPT](https://openai.com/index/chatgpt/)
 
  - [PHP Documentation](https://www.php.net/docs.php)
 
