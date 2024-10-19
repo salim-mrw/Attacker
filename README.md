@@ -10,15 +10,21 @@ Information Technology College
 
 Computer Network and the Internet Department
 
-Assess the impact USB/WiFi Ducky Delivery Attack on network security
 
 ## Research Supervisor
 
 dr karam salih
 
+
 ## Researcher
 
-- [Salim Marwan](https://www.github.com/salim-mrw)
+[Salim Marwan](https://www.github.com/salim-mrw)
+
+
+## Title of graduation search
+
+Assess the impact USB/WiFi Ducky Delivery Attack on network security
+
 
 ![Logo](logo.png)
 
