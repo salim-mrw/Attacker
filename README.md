@@ -72,7 +72,7 @@ If you have any feedback, please reach out to us at salim.marwan2001@gmail.com
 
  - [W3Schools](https://www.w3schools.com/)
 
- - [Google fonts and icons](https://fonts.google.com/)
+ - [Google fonts](https://fonts.google.com/)
 
  - [Bootstrap 5 icons](https://icons.getbootstrap.com/)
 
