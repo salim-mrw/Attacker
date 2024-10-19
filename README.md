@@ -42,9 +42,7 @@ install Arduino IDE 1
 - [for MacOS](https://docs.arduino.cc/software/ide-v1/tutorials/macOS/)
 
 
-[How to install libraries](https://docs.arduino.cc/software/ide-v1/tutorials/installing-libraries/)
-
-install libraries
+[install libraries](https://docs.arduino.cc/software/ide-v1/tutorials/installing-libraries/)
 
 - esp8266
 
