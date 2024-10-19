@@ -41,9 +41,10 @@ install Arduino IDE 1
 
 - [for MacOS](https://docs.arduino.cc/software/ide-v1/tutorials/macOS/)
 
-https://docs.arduino.cc/software/ide-v1/tutorials/installing-libraries/
 
-install esp8266 librarys
+[How to install libraries](https://docs.arduino.cc/software/ide-v1/tutorials/installing-libraries/)
+
+install esp8266 libraries
 
 install keyboard library
 
