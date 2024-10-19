@@ -44,11 +44,13 @@ install Arduino IDE 1
 
 [How to install libraries](https://docs.arduino.cc/software/ide-v1/tutorials/installing-libraries/)
 
-install esp8266 libraries
+install libraries
 
-install keyboard library
+- esp8266
 
-install mouse library
+- keyboard
+
+- mouse
 
 open attacker/atmega32u/atmega32u.ino and born code in conntroller atmega32u
 
