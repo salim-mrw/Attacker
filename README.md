@@ -62,11 +62,11 @@ If you have any feedback, please reach out to us at salim.marwan2001@gmail.com
 
 ## Acknowledgements
 
- - [canva](https://www.canva.com/)
+ - [logo design canva](https://www.canva.com/)
 
- - [git](https://git-scm.com/)
+ - [github repository management git](https://git-scm.com/)
 
- - [chatgpt](https://openai.com/index/chatgpt/)
+ - [adviser AI chatgpt](https://openai.com/index/chatgpt/)
 
  - [PHP Documentation](https://www.php.net/docs.php)
 
@@ -76,6 +76,8 @@ If you have any feedback, please reach out to us at salim.marwan2001@gmail.com
 
  - [Arduino Documentation](https://docs.arduino.cc/)
 
+ - [PCB Design Proteus](https://www.labcenter.com/)
+
  - [The easiest way to create a
-README](https://https://readme.so/en)
+README](https://readme.so/en)
 
