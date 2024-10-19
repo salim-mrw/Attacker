@@ -62,15 +62,13 @@ If you have any feedback, please reach out to us at salim.marwan2001@gmail.com
 
 ## Acknowledgements
 
- - [Logo design canva](https://www.canva.com/)
-
- - [Github repository management git](https://git-scm.com/)
-
  - [Adviser AI chatGPT](https://openai.com/index/chatgpt/)
 
  - [PHP Documentation](https://www.php.net/docs.php)
 
  - [W3Schools](https://www.w3schools.com/)
+
+ - [Logo design canva](https://www.canva.com/)
 
  - [Google fonts](https://fonts.google.com/)
 
@@ -85,6 +83,8 @@ If you have any feedback, please reach out to us at salim.marwan2001@gmail.com
  - [PCB Design Proteus](https://www.labcenter.com/)
 
  - [Datasheet parts](https://www.alldatasheet.com/)
+
+ - [Github repositories management git](https://git-scm.com/)
 
  - [The easiest way to create a
 README](https://readme.so/en)
