@@ -72,6 +72,8 @@ If you have any feedback, please reach out to us at salim.marwan2001@gmail.com
 
  - [W3Schools](https://www.w3schools.com/)
 
+ - [Google fonts and icons](https://fonts.google.com/)
+
  - [Bootstrap 4 colors](https://colorswall.com/palette/3)
 
  - [Arduino Documentation](https://docs.arduino.cc/)
