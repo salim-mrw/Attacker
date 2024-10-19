@@ -62,11 +62,11 @@ If you have any feedback, please reach out to us at salim.marwan2001@gmail.com
 
 ## Acknowledgements
 
- - [logo design canva](https://www.canva.com/)
+ - [Logo design canva](https://www.canva.com/)
 
- - [github repository management git](https://git-scm.com/)
+ - [Github repository management git](https://git-scm.com/)
 
- - [adviser AI chatgpt](https://openai.com/index/chatgpt/)
+ - [Adviser AI chatgpt](https://openai.com/index/chatgpt/)
 
  - [PHP Documentation](https://www.php.net/docs.php)
 
