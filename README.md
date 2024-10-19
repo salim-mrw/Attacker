@@ -55,11 +55,6 @@ open attacker/atmega32u/atmega32u.ino and born code in conntroller atmega32u
 open attacker/esp8266/esp8266.ino and born code in conntroller esp8266
 
 
-## Feedback
-
-If you have any feedback, please reach out to us at salim.marwan2001@gmail.com
-
-
 ## Acknowledgements
 
  - [Adviser AI ChatGPT](https://openai.com/index/chatgpt/)
@@ -88,4 +83,9 @@ If you have any feedback, please reach out to us at salim.marwan2001@gmail.com
 
  - [The easiest way to create a
 README](https://readme.so/en)
+
+
+## Feedback
+
+If you have any feedback, please reach out to us at salim.marwan2001@gmail.com
 
