@@ -78,6 +78,8 @@ If you have any feedback, please reach out to us at salim.marwan2001@gmail.com
 
  - [PCB Design Proteus](https://www.labcenter.com/)
 
+ - [Datasheet parts](https://www.alldatasheet.com/)
+
  - [The easiest way to create a
 README](https://readme.so/en)
 
