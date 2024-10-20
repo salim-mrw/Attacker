@@ -1,4 +1,4 @@
-# attacker
+# Attacker
 
 Graduation Research
 
@@ -13,7 +13,7 @@ Computer Network and the Internet Department
 
 ## Research Supervisor
 
-dr karam salih
+Dr karam salih
 
 
 ## Researcher
