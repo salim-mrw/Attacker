@@ -77,6 +77,8 @@ open attacker/esp8266/esp8266.ino and born code in conntroller esp8266
 
  - [Adviser AI ChatGPT](https://openai.com/index/chatgpt/)
 
+ - [Build PCBs faster with an AI teammate](https://www.flux.ai/)
+
  - [PHP Documentation](https://www.php.net/docs.php)
 
  - [W3Schools](https://www.w3schools.com/)
