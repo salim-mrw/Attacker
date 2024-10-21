@@ -1,9 +1,9 @@
 ## File Structure
 
 .
-+-- app
-|  +-- models
-  view
+├── app
+|  ├── models
+|  ├── view
     include
       header.inc
       footer.inc
