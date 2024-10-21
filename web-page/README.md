@@ -11,53 +11,53 @@ MVC advantages
 - Testability: MVC makes it easier to test the application by isolating the different components.
 - Reusability: MVC components can be reused in other applications, which saves time and effort.
 
-    ├── app
-    |  ├── models
-    |  ├── view
-    |  |  ├── include
-    |  |  |  ├── header.inc
-    |  |  |  ├── footer.inc
-    |  |  |  ├── initialization.inc
-    |  |  |  ├── language.inc
-    |  |  ├── logo
-    |  |  |  ├── favicon.svg
-    |  |  ├── public
-    |  |  |  ├── scan
-    |  |  |  |  ├── access_point.php
-    |  |  |  |  ├── station.php
-    |  |  |  ├── attack
-    |  |  |  |  ├── wifi
-    |  |  |  |  ├── usb
-    |  |  |  ├── info.inc
-    |  |  ├── src
-    |  |  |  ├── script
-    |  |  |  |  ├── script.js
-    |  |  |  ├── style	
-    |  |  |  |  ├── style.css
-    |  |  |  |  ├── initialization.css
-    |  |  |  |  ├── animation.css
-    |  |  |  ├── screen
-    |  |  |  |  ├── iphone.css
-    |  |  |  |  ├── ipad.css
-    |  ├── controllers
-    |  |  ├── components
-    |  |  |  ├── span.inc
-    |  |  |  ├── button.inc
-    |  |  |  ├── div.inc
-    |  |  |  ├── img.inc
-    |  |  |  ├── form.inc
-    |  |  |  ├── input.inc
-    |  |  |  ├── button.inc
-    |  |  |  ├── table.inc
-    |  |  |  ├── components.php
-    |  |  ├── api
-    |  |  |  ├── get
-    |  |  |  |  ├── get_scan.php
-    |  |  |  |  ├── get_attack.php
-    |  |  |  ├── post
-    |  |  |  |  ├── post_scan.php
-    |  |  |  |  ├── post_attack.php
-    ├──index.php
+        ├── app
+        |  ├── models
+        |  ├── view
+        |  |  ├── include
+        |  |  |  ├── header.inc
+        |  |  |  ├── footer.inc
+        |  |  |  ├── initialization.inc
+        |  |  |  ├── language.inc
+        |  |  ├── logo
+        |  |  |  ├── favicon.svg
+        |  |  ├── public
+        |  |  |  ├── scan
+        |  |  |  |  ├── access_point.php
+        |  |  |  |  ├── station.php
+        |  |  |  ├── attack
+        |  |  |  |  ├── wifi
+        |  |  |  |  ├── usb
+        |  |  |  ├── info.inc
+        |  |  ├── src
+        |  |  |  ├── script
+        |  |  |  |  ├── script.js
+        |  |  |  ├── style	
+        |  |  |  |  ├── style.css
+        |  |  |  |  ├── initialization.css
+        |  |  |  |  ├── animation.css
+        |  |  |  ├── screen
+        |  |  |  |  ├── iphone.css
+        |  |  |  |  ├── ipad.css
+        |  ├── controllers
+        |  |  ├── components
+        |  |  |  ├── span.inc
+        |  |  |  ├── button.inc
+        |  |  |  ├── div.inc
+        |  |  |  ├── img.inc
+        |  |  |  ├── form.inc
+        |  |  |  ├── input.inc
+        |  |  |  ├── button.inc
+        |  |  |  ├── table.inc
+        |  |  |  ├── components.php
+        |  |  ├── api
+        |  |  |  ├── get
+        |  |  |  |  ├── get_scan.php
+        |  |  |  |  ├── get_attack.php
+        |  |  |  ├── post
+        |  |  |  |  ├── post_scan.php
+        |  |  |  |  ├── post_attack.php
+        ├──index.php
 
 
 
