@@ -21,7 +21,7 @@ Dr Karam Mahdi
 [Salim Marwan](https://www.github.com/salim-mrw)
 
 
-## Title of graduation search
+## Title of graduation research
 
 Assess the impact USB/WiFi Ducky Delivery Attack on network security
 
