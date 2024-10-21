@@ -63,6 +63,10 @@ MVC advantages
 
 ## Color Reference
 
+Dark/Light Mode
+
+This mode provides the ability to customize the user experience to the surrounding environment using dark mode to reduce emissions and to maintain eye comfort and using light mode when needed to see content more clearly
+
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
 | Primary Text Color Dark | ![#dc3545](https://via.placeholder.com/10/dc3545?text=+) #dc3545 |
