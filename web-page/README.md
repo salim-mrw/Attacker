@@ -2,9 +2,9 @@
 
 MVC Design Pattren
 
-Model: The model represents the data and business logic of the application. It is responsible for managing the data and performing operations on it.
-View: The view is responsible for displaying the data to the user. It is typically implemented using HTML and CSS.
-Controller: The controller is responsible for handling user input and updating the model accordingly. It is typically implemented using a server-side programming language such as PHP, Java, or Python.
+- Model: The model represents the data and business logic of the application. It is responsible for managing the data and performing operations on it.
+- View: The view is responsible for displaying the data to the user. It is typically implemented using HTML and CSS.
+- Controller: The controller is responsible for handling user input and updating the model accordingly. It is typically implemented using a server-side programming language such as PHP, Java, or Python.
 
 MVC advantages
 - Separation of concerns: MVC separates the application into three distinct components, which makes it easier to develop and maintain the application.
