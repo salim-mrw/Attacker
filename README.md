@@ -41,9 +41,9 @@ install [git tool](https://git-scm.com/downloads)
 create directory name attacker and open it
 
 ```bash
-  mkdir attacker
+  mkdir Attacker
 
-  cd attacker
+  cd Attacker
 ```
 
 clone attacker repository with git tool
