@@ -13,7 +13,7 @@ Computer Network and the Internet Department
 
 ## Research Supervisor
 
-Dr karam salih
+Dr Karam Mahdi
 
 
 ## Researcher
