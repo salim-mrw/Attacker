@@ -1,6 +1,6 @@
 ## File Structure
 
-MVC design pattren
+MVC Design Pattren
 
 Model: The model represents the data and business logic of the application. It is responsible for managing the data and performing operations on it.
 View: The view is responsible for displaying the data to the user. It is typically implemented using HTML and CSS.
