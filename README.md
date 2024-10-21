@@ -26,7 +26,7 @@ Dr karam salih
 Assess the impact USB/WiFi Ducky Delivery Attack on network security
 
 
-![Logo](logo.png)
+![Logo](web-page/logo.png)
 
 
 ## Description
