@@ -62,11 +62,15 @@ install Arduino IDE 1
 
 [install libraries](https://docs.arduino.cc/software/ide-v1/tutorials/installing-libraries/)
 
-- esp8266
+- ESP8266WiFi
+
+- WiFiClient
+
+- ESP8266WebServer
+
+- ESP8266mDNS
 
 - keyboard
-
-- mouse
 
 open attacker/atmega32u/atmega32u.ino and born code in conntroller atmega32u
 
