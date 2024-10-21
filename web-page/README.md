@@ -1,7 +1,7 @@
 ## File Structure
 
-├── app
-|  ├── models
+    ├── app
+    |  ├── models
 |  ├── view
     include
       header.inc
