@@ -49,7 +49,7 @@ create directory name attacker and open it
 clone attacker repository with git tool
 
 ```bash
-  git clone https://github.com/salim-mrw/attacker
+  git clone https://github.com/salim-mrw/Attacker
 ```
 install Arduino IDE 1
 
