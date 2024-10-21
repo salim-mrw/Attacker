@@ -59,6 +59,7 @@ install Arduino IDE 1
 
 - [MacOS](https://docs.arduino.cc/software/ide-v1/tutorials/macOS/)
 
+open directory Attacker using Arduino IDE 1
 
 [install libraries](https://docs.arduino.cc/software/ide-v1/tutorials/installing-libraries/)
 
