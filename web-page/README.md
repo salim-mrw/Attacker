@@ -1,6 +1,5 @@
 ## File Structure
 
-.
 ├── app
 |  ├── models
 |  ├── view
