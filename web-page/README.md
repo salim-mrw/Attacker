@@ -82,16 +82,17 @@ This mode provides the ability to customize the user experience to the surroundi
 
 ## Tech Stack
 
-Client
+Client side
 
 - Dark/Light mode
 - Routing page
 - Long polling
 
-Server
+Server side
 
 - Routing path
 - Cron job
+- Gzip compration
 
 Global
 
