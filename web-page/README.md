@@ -78,3 +78,18 @@ This mode provides the ability to customize the user experience to the surroundi
 | Light Theme Color 1 | ![#e9ecef](https://via.placeholder.com/10/e9ecef?text=+) #e9ecef |
 | Light Theme Color 2 | ![#f8f9fa](https://via.placeholder.com/10/f8f9fa?text=+) #f8f9fa |
 | Light Theme Color 3 | ![#dee2e6](https://via.placeholder.com/10/dee2e6?text=+) #dee2e6 |
+
+
+## Tech Stack
+
+Client
+
+- Routing page
+- long polling
+
+Server
+
+- Routing path
+- Cron Job
+
+
