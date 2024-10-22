@@ -36,13 +36,13 @@ Many organizations rely on traditional means of communication such as USB and Wi
 
 ## Languages Stack
 
-**Client:** 
+Client
 
 - HTML
 - CSS
 - Javascript
 
-**Server:**
+Server
 
 - PHP
 - Arduino C
