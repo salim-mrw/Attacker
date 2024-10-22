@@ -34,6 +34,20 @@ Assess the impact USB/WiFi Ducky Delivery Attack on network security
 Many organizations rely on traditional means of communication such as USB and WiFi for their daily work. However, poor security in these means can be exploited by attackers to access sensitive networks and carry out malicious orders or steal data. USB/WiFi Ducky Delivery is a modern threat to network security by exploiting USB and WiFi devices. The attack involves the use of fake devices that connect malware or act as input devices such as a keyboard or a mouse to execute remote orders. These attacks depend on exploiting security gaps in physical connectivity (USB) or wireless networks (WiFi) to enable unauthorized access to devices.
 
 
+## Languages Stack
+
+**Client:** 
+
+- HTML
+- CSS
+- Javascript
+
+**Server:**
+
+- PHP
+- Arduino C
+
+
 ## Installation
 
 install [git tool](https://git-scm.com/downloads)
