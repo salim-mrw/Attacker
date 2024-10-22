@@ -20,11 +20,9 @@
 
    --mode-color-1: #e9ecef;
    --mode-color-2: #f8f9fa;
-   --mode-color-3: ##dee2e6;
+   --mode-color-3: #dee2e6;
    --secondary-color: #495057;
-   --scroll-color: #343a40;
-
-495057
+   --scroll-color: #dc3545;
 
 }
 
