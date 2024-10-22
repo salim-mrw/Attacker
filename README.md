@@ -130,6 +130,8 @@ Then open the browser and enter the following address
 
  - [Bootstrap 5 animation](https://mdbootstrap.com/docs/standard/content-styles/animations/)
 
+ - [The simplest CSS variable dark mode theme](https://lukelowrey.com/css-variable-theme-switcher/)
+
  - [Arduino Documentation](https://docs.arduino.cc/)
 
  - [PCB Design Proteus](https://www.labcenter.com/)
