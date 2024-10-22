@@ -84,9 +84,9 @@ This mode provides the ability to customize the user experience to the surroundi
 
 Client side
 
+- Loader
 - Dark/Light mode
 - Routing page
-- Long polling
 
 Server side
 
@@ -100,5 +100,6 @@ Global
 - Recursive function using tail recursion
 - Multi threading
 - Graph gl
+- Long polling
 
 
