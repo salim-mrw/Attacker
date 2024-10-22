@@ -57,7 +57,7 @@ MVC advantages
         |  |  |  ├── post
         |  |  |  |  ├── post_scan.php
         |  |  |  |  ├── post_attack.php
-        ├──index.php
+        ├── index.php
 
 
 
