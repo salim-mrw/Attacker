@@ -95,8 +95,8 @@ Server
 
 Global
 
-- Recursive functionecuration
-- Multi threadingGlobal
+- Recursive function using tail recursion
+- Multi threading
 - Graph gl
 
 
