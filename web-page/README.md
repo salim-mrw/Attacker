@@ -84,12 +84,19 @@ This mode provides the ability to customize the user experience to the surroundi
 
 Client
 
+- Dark/Light mode
 - Routing page
-- long polling
+- Long polling
 
 Server
 
 - Routing path
-- Cron Job
+- Cron job
+
+Global
+
+- Recursive functionecuration
+- Multi threadingGlobal
+- Graph gl
 
 
