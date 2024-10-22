@@ -90,6 +90,7 @@ Client side
 
 Server side
 
+- Components system
 - Routing path
 - Cron job
 - Gzip compration
