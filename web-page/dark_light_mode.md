@@ -12,11 +12,11 @@
 
 :root{
 
-   --primary-color:#dc3545;
+   --primary-color: #dc3545;
 
 }
 
-[dark-theme]{
+html[data-theme='dark']{
 
    --mode-color-1: #495057;
    --mode-color-2: #343a40;
@@ -26,7 +26,7 @@
 
 }
 
-[light-theme]{
+html[data-theme='light']{
 
    --mode-color-1: #e9ecef;
    --mode-color-2: #f8f9fa;
