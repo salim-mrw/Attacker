@@ -87,6 +87,7 @@ Client side
 - Loader
 - [Dark/Light mode](documentation/dark_light_mode.md)
 - Routing page
+- Promises
 
 Server side
 
