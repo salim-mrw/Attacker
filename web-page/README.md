@@ -18,7 +18,6 @@ MVC advantages
         |  |  |  ├── header.inc
         |  |  |  ├── footer.inc
         |  |  |  ├── initialization.inc
-        |  |  |  ├── language.inc
         |  |  ├── logo
         |  |  |  ├── favicon.svg
         |  |  ├── public
