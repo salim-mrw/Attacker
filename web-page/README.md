@@ -90,7 +90,7 @@ Client side
 
 Server side
 
-- Component system
+- [Component system](documentation/component_system.md)
 - Routing path
 - Cron job
 - Gzip compration
