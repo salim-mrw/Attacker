@@ -1,7 +1,7 @@
 <?php
 
 	include 'app/view/include/initialization.inc';
-	include 'app/controller/component/main.php';
+	include 'app/controller/component/component.php';
 
 	ob_start();
 
