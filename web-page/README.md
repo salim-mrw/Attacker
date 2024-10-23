@@ -85,7 +85,7 @@ This mode provides the ability to customize the user experience to the surroundi
 Client side
 
 - Loader
-- Dark/Light mode
+- [Dark/Light mode](documentation/dark_light_mode.md)
 - Routing page
 
 Server side
