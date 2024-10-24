@@ -14,4 +14,4 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 		<link rel="stylesheet" href="<?=$style;?>"/>
 	</head>
-	<body>
+	<body class="pt-0 pb-5 bg-dark text-light">

@@ -13,6 +13,7 @@
     $script = $user_script;
 
     include 'app/view/include/header.inc';
+    include 'app/view/include/navbar.php';
     include 'app/view/public/scan/scan.php';
     include 'app/view/public/attack/attack.php';
     include 'app/view/public/info.php';
