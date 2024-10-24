@@ -22,11 +22,16 @@ MVC advantages
         |  |  |  ├── favicon.svg
         |  |  ├── public
         |  |  |  ├── scan
+        |  |  |  |  ├── scan.php
         |  |  |  |  ├── access_point.php
         |  |  |  |  ├── station.php
         |  |  |  ├── attack
+        |  |  |  |  ├── attack.php
         |  |  |  |  ├── wifi
         |  |  |  |  ├── usb
+        |  |  |  ├── home.php
+        |  |  |  ├── navbar.php
+        |  |  |  ├── loader.php
         |  |  |  ├── info.inc
         |  |  ├── src
         |  |  |  ├── script
@@ -56,7 +61,7 @@ MVC advantages
         |  |  |  ├── post
         |  |  |  |  ├── post_scan.php
         |  |  |  |  ├── post_attack.php
-        ├── index.php
+        |  ├── index.php
 
 
 
