@@ -1,26 +1,26 @@
 <?php
 
-	include 'app/view/include/initialization.inc';
-	include 'app/controller/component/component.php';
+	include 'view/include/initialization.inc';
+	include 'controller/component/component.php';
 
 	ob_start();
 
 	session_start();
 
-    $logo = 'app/view/logo/favicon.svg';
+    $logo = 'view/logo/favicon.svg';
     $title = 'Attacker';
     $style = $user_style;
     $script = $user_script;
 
-    include 'app/view/include/header.inc';
-    include 'app/view/include/navbar.php';
-    include 'app/view/public/scan/scan.php';
-    include 'app/view/public/attack/attack.php';
-    include 'app/view/public/info.php';
+    include 'view/include/header.inc';
+    include 'view/include/navbar.php';
+    include 'view/public/scan/scan.php';
+    include 'view/public/attack/attack.php';
+    include 'view/public/info.php';
 
 	ob_end_flush();
 
-	include 'app/view/include/footer.inc';
+	include 'view/include/footer.inc';
 
 ?>
 
