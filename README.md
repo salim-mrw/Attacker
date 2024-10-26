@@ -146,6 +146,8 @@ Help for wherever you are on your GitHub journey](https://docs.github.com/en)
  - [The easiest way to create a
 README](https://readme.so/en)
 
+ - [The MIT License](https://opensource.org/license/MIT)
+
 
 ## Feedback
 
