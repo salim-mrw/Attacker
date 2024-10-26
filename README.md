@@ -140,6 +140,9 @@ Then open the browser and enter the following address
 
  - [Github repositories management git](https://git-scm.com/)
 
+ - [GitHub Docs
+Help for wherever you are on your GitHub journey](https://docs.github.com/en)
+
  - [The easiest way to create a
 README](https://readme.so/en)
 
