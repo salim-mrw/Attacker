@@ -134,6 +134,8 @@ Then open the browser and enter the following address
 
  - [Arduino Documentation](https://docs.arduino.cc/)
 
+ - [Virtual Key Code](https://learn.microsoft.com/en-us/windows/win32/inputdev/virtual-key-codes)
+
  - [PCB Design Proteus](https://www.labcenter.com/)
 
  - [Datasheet parts](https://www.alldatasheet.com/)
