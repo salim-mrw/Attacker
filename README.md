@@ -107,7 +107,7 @@ From any device go to WiFi and connect to the network provided by Attacker using
 
 Then open the browser and enter the following address
 
-    attacker.local:8080 or 192.168.4.1:8000
+    attacker.local:8000 or 192.168.4.1:8000
 
 
 ## Acknowledgements
